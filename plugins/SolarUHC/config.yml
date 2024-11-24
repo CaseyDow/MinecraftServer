@@ -1,0 +1,12 @@
+scoreboards:
+  name: '&f&lUHC'
+  '9': '&7&m--------------'
+  '8': '&fTime: &3%game.time%'
+  '7': '&f  %game.nextevent%: &3%game.nexttime%'
+  '6': ''
+  '5': '&fAlive: &3%game.players%'
+  '4': '&fKills: &3%game.kills%'
+  '3': ''
+  '2': '&fBorder: &3%border%'
+  '1': '&fOnline: &3%online%'
+  '0': '&7&m--------------'

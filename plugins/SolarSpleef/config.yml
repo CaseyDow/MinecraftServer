@@ -1,0 +1,9 @@
+scoreboards:
+  name: '&f&lSpleef'
+  '6': '&7&m----------'
+  '5': '&fTime: &3%game.time%'
+  '4': ''
+  '3': '&fAlive: &3%game.players%'
+  '2': ''
+  '1': '&fOnline: &3%online%'
+  '0': '&7&m----------'

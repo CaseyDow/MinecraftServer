@@ -1,0 +1,28 @@
+scoreboards:
+  name: '&4&lSolarCraft'
+  '8': '&7&m------------'
+  '7': '&fRank: %rank_color%%rank%'
+  '6': ''
+  '5': '&fKills: &30'
+  '4': '&fWins: &30'
+  '3': ''
+  '2': '&fCoins: &6-'
+  '1': '&fOnline: &3%online%'
+  '0': '&7&m------------'
+
+ranks:
+  Admin:
+    color: '&4'
+    prefix: '&4[Admin] &f'
+  AAA:
+    color: '&c'
+    prefix: '&c[AAA] &f'
+  Campo:
+    color: '&9'
+    prefix: '&9[Campo] &f'
+  JM:
+    color: '&1'
+    prefix: '&1[JM] &f'
+  Default:
+    color: '&f'
+    prefix: '&f'
